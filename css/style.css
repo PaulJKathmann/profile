@@ -23,6 +23,9 @@ body {
 .header-link {
   color: #90D2D0;
 }
+.work {
+  background-color: white;
+}
 
 h1, h2, h3 {
   font-family: 'Overpass', sans-serif;
