@@ -16,6 +16,10 @@ body {
   line-height: 1.6;
   text-align: center;
 }
+
+.header {
+  padding-top: 30%;
+}
 .header-link {
   color: #90D2D0;
 }

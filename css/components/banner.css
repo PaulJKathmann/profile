@@ -3,3 +3,7 @@
   height: 576px;
   background-color:rgba(9, 154, 151, 0.2);
 }
+
+.header {
+  padding-top: 200px;
+}
