@@ -2,10 +2,11 @@
 @import url("components/cards.css");
 @import url("components/footer.css");
 @import url("components/buttons.css");
+@import url("components/banner.css")
 
 .container {   /* This sets the width */
   margin: 0 auto;
-  width: 500px;
+  width: 80vw;
 }
 
 body {
@@ -15,9 +16,12 @@ body {
   line-height: 1.6;
   text-align: center;
 }
+.header-link {
+  color: #90D2D0;
+}
 
 h1, h2, h3 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Overpass', sans-serif;
 }
 
 h1 {
